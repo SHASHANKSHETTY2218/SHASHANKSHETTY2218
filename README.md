@@ -1,4 +1,4 @@
-Hi 👋, I'm Shashankshetty
+# Hi 👋, I'm Shashank shetty
 A passionate developer from India 🇮🇳
 <br>- 🤖 AI/ML Enthusiast | 🐍 Python Lover | 💡 Curious Learner  <br>- 🌱 Learning one algorithm at a time  <br>- 🔭 Currently working on: AI-powered projects  <br>- ⚡ Fun fact: I debug more than I code 😅  <br>- 💬 Let’s connect & collaborate on AI projects!  <br>- 🚀 Exploring real-world projects to sharpen my skills  <br><br>
 
